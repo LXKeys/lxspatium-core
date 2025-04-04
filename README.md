@@ -1,14 +1,3 @@
-git add README.md
-git commit -m "Update README for LXSpatium identity"
-git pushgit add README.md
-git commit -m "Update README for LXSpatium identity"
-git push
-git add README.md
-git commit -m "Update README for LXSpatium identity"
-git push
-git add README.md
-git commit -m "Update README for LXSpatium identity"
-git push
 # LXSpatium Core
 
 LXSpatium is a sovereign blockchain framework derived from Polygon Edge, designed by **LXKeys Ltd**.  
